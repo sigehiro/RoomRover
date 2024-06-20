@@ -1,9 +1,9 @@
-Empty Room Search
+# Empty Room Search
 
-Description:
+### Description:
 The Empty Room Search app allows users to access a list of available hotel rooms along with pricing information and service details.
 
-Features:
+## Features:
 
 1. Room Information:
 
